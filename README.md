@@ -14,9 +14,6 @@ A lightweight web application built with Streamlit that converts long URLs into 
 - 📋 Copy shortened URL with one click
 - 🚫 Error handling for invalid URLs
 
-## Live Demo 🌍
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.com)
-
 ## Requirements 📋
 
 - Python 3.7+
@@ -27,7 +24,7 @@ A lightweight web application built with Streamlit that converts long URLs into 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/URL_Shortener.git
+git clone https://github.com/RevanthGangaput/URL_Shortener.git
 cd URL_Shortener
 
 # Install dependencies
@@ -38,7 +35,7 @@ pip install streamlit pyshorteners
 
 1. Run the application:
 ```bash
-streamlit run url_shortener.py
+streamlit run urlshortener.py
 ```
 
 2. In the web interface:
